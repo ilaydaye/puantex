@@ -21,10 +21,21 @@ Keyifli oyunlar ve bol şans! 🍀🎉
 
 Hello! 🎲♟️🃏
 Puantex is a practical score-tracking app that helps you easily keep track of your board game scores. You can log scores for Backgammon, Taboo, Card Games, Chess, Checkers, and all your other favorite board games, review past games, and keep the competition alive with your friends!
-📌 App Features:✅ Score tracking for Backgammon, Taboo, Card Games, Chess, Checkers, and more✅ Review past games and analyze your performance✅ Fast and easy score entry for seamless gameplay✅ Offline functionality – track scores without an internet connection✅ Simple and child-friendly interface
+
+📌 App Features:
+
+✅ Score tracking for Backgammon, Taboo, Card Games, Chess, Checkers, and more
+✅ Review past games and analyze your performance
+✅ Fast and easy score entry for seamless gameplay
+✅ Offline functionality – track scores without an internet connection
+✅ Simple and child-friendly interface
+
 ❓ Help & Support
+
 If you encounter any issues or have suggestions, feel free to contact us:
+
 📧 Email: techinn700@gmail.com
+
 Enjoy your games and good luck! 🍀🎉
 
 
